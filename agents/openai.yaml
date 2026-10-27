@@ -1,0 +1,6 @@
+interface:
+  display_name: "Observable Profiler Analysis"
+  short_description: "分析 Minecraft Observable 报告与热点"
+  default_prompt: "Use $observable-profiler-analysis to analyze these Observable report links and produce an evidence-based Chinese performance report."
+policy:
+  allow_implicit_invocation: true
